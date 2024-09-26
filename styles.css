@@ -85,12 +85,15 @@ body {
   font-size: 0.875rem;
   font-weight: 700;
   color: #c4f82a;
-  margin-bottom: 1.5rem;
 }
 
 .card__bio {
   font-size: 0.875rem;
   color: #fff;
+  margin-bottom: 1.5rem;
+}
+
+.card__header {
   margin-bottom: 1.5rem;
 }
 
